@@ -1,0 +1,12 @@
+.terragrunt-cache
+.terraform
+*.tfstate
+*.tfstate.backup
+
+# Windows junk
+[Tt]humbs.db
+[Tt]humbs.db:encryptable
+[Dd]esktop.ini
+
+# macOS junk
+.DS_Store
