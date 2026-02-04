@@ -1,6 +1,6 @@
 # 모듈(≈함수)의 input
 variable "content_text" {
-    type = string
+  type = string
 }
 
 # 모듈(≈함수) 본체
